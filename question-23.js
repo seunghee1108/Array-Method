@@ -12,3 +12,4 @@ const flatNestedSquares = array.flatMap(function(number) {
 });
 
 console.log(flatNestedSquares);
+// [ 1, 4, 9, 16, 25 ]
