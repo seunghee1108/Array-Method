@@ -18,6 +18,11 @@ const studentList = [
   "홍문기"
 ];
 
+
+/** 
+ * * 다시 확인 해보기
+ */
+
 // 같은 이름(성씨제외)을 가진 학생 찾기 
 const findSameName = (nameList) => {
   const nameMap = new Map();
