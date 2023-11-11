@@ -14,3 +14,8 @@ pokemon.splice(1, 1, "러브로스", "메타몽"); // index 1부터 1개 교체
 console.log(pokemon);
 // [ '이상해씨', '러브로스', '메타몽', '피오네' ]
 
+
+let arr = [1, 2, 3, 4, 5];
+arr.splice(1, 2, 'a', 'b', 'c');
+console.log(arr);
+// 출력: [1, 'a', 'b', 'c', 4, 5]

@@ -17,5 +17,6 @@ const studentList = [
   "최은철",
   "홍문기"
 ];
+
 const removedstudentList = studentList.pop(); 
 console.log(removedstudentList); 

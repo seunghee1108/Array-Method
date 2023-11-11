@@ -5,3 +5,13 @@ const lastIndex = pokemon.lastIndexOf('이상해꽃');
 
 console.log(lastIndex); // 2
 
+
+let arr = ['apple', 'banana', 'orange'];
+let index = arr.indexOf('banana');
+console.log(index);
+// 출력: 1
+
+const fruits = ["사과", "바나나", "체리", "딸기"];
+const lastIndexof = fruits.lastIndexOf("바나나");
+
+console.log(lastIndexof)

@@ -4,3 +4,5 @@ const numbers = [1, 2, 3, 4, 5];
 const squaredNumbers = numbers.map(number => number * number); // (각 요소를 제곱한 결과가 모인 새 배열)
 
 console.log(squaredNumbers);  // [1, 4, 9, 16, 25] 
+
+

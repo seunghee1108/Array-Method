@@ -18,5 +18,5 @@ const studentList = [
   "홍문기"
 ];
 
-const studentListWithSeung = studentList .filter(name => name.includes("승"));
-console.log(studentListWithSeung);
+const studentListSeung = studentList .filter(name => name.includes("승"));
+console.log(studentListSeung);

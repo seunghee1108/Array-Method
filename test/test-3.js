@@ -17,6 +17,7 @@ const studentList = [
   "최은철",
   "홍문기"
 ];
+
 // 세 번째 학생 제거  
 const removedStudent = studentList.splice(2, 1);
 
