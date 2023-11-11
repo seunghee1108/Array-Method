@@ -18,5 +18,6 @@ const studentList = [
   "홍문기"
 ];
 
+// 배열의 마지막 요소를 제거
 const removedstudentList = studentList.splice(-1, 1);
 console.log(removedstudentList); 
